@@ -1,0 +1,8 @@
+{
+  "name": "acmecorp-widget-library",
+  "version": "1.4.0",
+  "description": "Demo data for NPM Peer Dependency Companion",
+  "peerDependencies": {
+    "react": "^18.0.0"
+  }
+}
